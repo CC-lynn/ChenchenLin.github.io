@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Chenchen Lin"
-description              : "Sun Yat-sen University "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Postgraduate Student of Computer Science and Technology"
+repository               : "cc-lynn.github.io/ChenchenLin.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chenchen Lin"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Chenchen_Lin.jpg"
   bio              : "Sun Yat-sen University"
   location         : "Guangdong, China"
   employer         :
