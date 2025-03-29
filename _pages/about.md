@@ -21,7 +21,7 @@ Hi! I‘m a second-year Master student in the [School of Artificial Intelligence
 from the Northwest A&F University (NWAFU) in 2023. 
 
 My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
-
+Here is [💗](https://yuanwow.github.io/)
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Waiting TMC(plz~~ . 
