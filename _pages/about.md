@@ -20,7 +20,8 @@ redirect_from:
 Hi! I‘m a second-year Master student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Software Engineering 
 from the Northwest A&F University (NWAFU) in 2023. 
 
-My research interest includes Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
+My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
+
 Here is [💗](https://yuanwow.github.io/)
 
 # 🔥 News
