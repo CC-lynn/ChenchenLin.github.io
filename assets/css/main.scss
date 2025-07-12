@@ -97,6 +97,7 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+/*
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -106,4 +107,14 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+} */
+.badge {
+  display: inline-block;  // 使其成为行内块元素
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
+  margin-top: 0.5em;  
+  color: white;
+  background-color: #00369f;
+  font-size: 0.8em;
+  border-radius: 4px;  // 可选，增加圆角效果
 }
