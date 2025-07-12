@@ -36,7 +36,8 @@ Here is [💗](https://yuanwow.github.io/)
 # 🎖 Honors and Awards
 - **National Scholarship** (2022) 
 - **Presidential Scholarship** (2021)
-
+- First-price Undergraduate Scholarship (2019-2023)
+- Excellent Graduate Academic Scholarship (2023-2024)
 # 📖 Educations
 - *2023.09 - now*, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2019.09 - 2023.06*, School of Information Engineering, Northwest A&F University, Shaanxi. 
