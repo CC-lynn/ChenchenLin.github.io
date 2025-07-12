@@ -25,10 +25,11 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 Here is [💗](https://yuanwow.github.io/)
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Waiting TMC(plz~~ . 
-
+- *2024.09*: &nbsp;🎉🎉 Waiting for TMC(Resubmitted).
+- *2025.06*: &nbsp;🎉🎉 Waiting for TMC(Major revision).
+- *2025.07*: &nbsp;🎉🎉 One paper "Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks" was accepted by ECAI-2025 (CCF-B) as first author! 
 # 📝 Publications 
-- Coming soon!
+- <code class="badge">ECAI'25</code> [Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks], **Chenchen Lin**, Xuehe Wang.
 
 
 # 🎖 Honors and Awards
