@@ -25,7 +25,8 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 Here is [💗](https://yuanwow.github.io/)
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Waiting for TMC(Resubmitted).
+- *2024.09*: &nbsp;🎉🎉 Waiting for TMC(Submitted).
+- *2025.02*: &nbsp;🎉🎉 Waiting for TMC(Resubmitted).
 - *2025.06*: &nbsp;🎉🎉 Waiting for TMC(Major revision).
 - *2025.07*: &nbsp;🎉🎉 One paper "Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks" was accepted by ECAI-2025 (CCF-B) as first author! 
 # 📝 Publications 
