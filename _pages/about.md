@@ -30,7 +30,7 @@ Here is [💗](https://yuanwow.github.io/)
 - *2025.06*: &nbsp;🎉🎉 Waiting for TMC(Major revision).
 - *2025.07*: &nbsp;🎉🎉 One paper "Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks" was accepted by ECAI-2025 (CCF-B) as first author! 
 # 📝 Publications 
-- <code class="badge">ECAI'25</code> [Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks], **Chenchen Lin**, Xuehe Wang.
+- <code class="badge">ECAI'25</code> Multi-Hop Privacy Propagation for Differentially Private Federated Learning in Social Networks, **Chenchen Lin**, Xuehe Wang.
 
 
 # 🎖 Honors and Awards
