@@ -25,7 +25,7 @@ My research interests include Distributed Optimization (e.g., Federated Learning
 Here is [💗](https://yuanwow.github.io/)
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper was accepted by ACL'26 as second author! Congratulations to first author Wenhao Yuan!
+- *2026.04*: &nbsp;🎉🎉 One collaborative paper was accepted by ACL'26 as second author! Congratulations to first author Wenhao Yuan!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Cloud Computing (JCR Q1) as first author!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR'26 (CCF-A) as first author!
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted by CloudCom'25 with Best Paper Runner-up Award as first author!
