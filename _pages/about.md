@@ -20,12 +20,10 @@ redirect_from:
 Hi! I‘m a final-year Master student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/) at Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I obtained my B.Eng. in Software Engineering 
 from the Northwest A&F University (NWAFU) in 2023. 
 
-My research interests include Distributed Optimization (e.g., Federated Learning), Game Theory, and Large Language Models (LLMs).
-
-Here is [💗](https://yuanwow.github.io/)
+My research interests include Distributed Optimization (e.g., Federated Learning) and Large Language Models (LLMs).
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One collaborative paper was accepted by ACL'26 as second author! Congratulations to first author Wenhao Yuan!
+- *2026.04*: &nbsp;🎉🎉 One collaborative paper was accepted by ACL'26 as second author! Congratulations to Wenhao Yuan!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Cloud Computing (JCR Q1) as first author!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR'26 (CCF-A) as first author!
 - *2025.10*: &nbsp;🎉🎉 One paper was accepted by CloudCom'25 with Best Paper Runner-up Award as first author!
@@ -48,12 +46,13 @@ Here is [💗](https://yuanwow.github.io/)
 - **National Scholarship** (2022) 
 - **Presidential Scholarship** (2021)
 - First-price Undergraduate Scholarship (2019-2023)
-- Excellent Graduate Academic Scholarship (2023-2024)
+- Excellent Graduate Academic Scholarship (2023-2026)
 # 📖 Educations
 - *2023.09 - now*, School of Artificial Intelligence, Sun Yat-sen University, Guangdong. 
 - *2019.09 - 2023.06*, School of Information Engineering, Northwest A&F University, Shaanxi. 
 
 # 💁 Academic Service
 - *Journal*: Coming soon.
-- *Conference*: AAAI'25 Program Committtee.
+- *Conference*: AAAI'25 Program Committee.
 
+Here is [💗](https://yuanwow.github.io/)
